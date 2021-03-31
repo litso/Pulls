@@ -1,0 +1,2 @@
+class LambdaError(Exception):
+    pass
